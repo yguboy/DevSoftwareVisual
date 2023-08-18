@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewProjectDevSoftware", "NewProjectDevSoftware\NewProjectDevSoftware.csproj", "{C4D0FE72-76DF-48CA-A72E-AECAAC88C00C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrientaçãoObjs", "OrientaçãoObjs\OrientaçãoObjs.csproj", "{EFDD0756-C0BB-495D-9126-688A07275C6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,13 @@ Global
 		{C4D0FE72-76DF-48CA-A72E-AECAAC88C00C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4D0FE72-76DF-48CA-A72E-AECAAC88C00C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4D0FE72-76DF-48CA-A72E-AECAAC88C00C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FA0FB07-76BE-4FD6-BAA1-54576AA513BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA0FB07-76BE-4FD6-BAA1-54576AA513BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA0FB07-76BE-4FD6-BAA1-54576AA513BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA0FB07-76BE-4FD6-BAA1-54576AA513BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFDD0756-C0BB-495D-9126-688A07275C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFDD0756-C0BB-495D-9126-688A07275C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFDD0756-C0BB-495D-9126-688A07275C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFDD0756-C0BB-495D-9126-688A07275C6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

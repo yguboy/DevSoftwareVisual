@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_ws\\_ygor\\_VisualSoftware\\DevSoftwareVisual\\Aula 02 - 1108\\NewDevProject\\NewProjectDevSoftware\\NewProjectDevSoftware.csproj": {}
+    "c:\\_ws\\_ygor\\_VisualSoftware\\DevSoftwareVisual\\Aula 02 - 1108\\NewDevProject\\NewProjectDevSoftware\\NewProjectDevSoftware.csproj": {}
   },
   "projects": {
-    "C:\\_ws\\_ygor\\_VisualSoftware\\DevSoftwareVisual\\Aula 02 - 1108\\NewDevProject\\NewProjectDevSoftware\\NewProjectDevSoftware.csproj": {
+    "c:\\_ws\\_ygor\\_VisualSoftware\\DevSoftwareVisual\\Aula 02 - 1108\\NewDevProject\\NewProjectDevSoftware\\NewProjectDevSoftware.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_ws\\_ygor\\_VisualSoftware\\DevSoftwareVisual\\Aula 02 - 1108\\NewDevProject\\NewProjectDevSoftware\\NewProjectDevSoftware.csproj",
+        "projectUniqueName": "c:\\_ws\\_ygor\\_VisualSoftware\\DevSoftwareVisual\\Aula 02 - 1108\\NewDevProject\\NewProjectDevSoftware\\NewProjectDevSoftware.csproj",
         "projectName": "NewProjectDevSoftware",
-        "projectPath": "C:\\_ws\\_ygor\\_VisualSoftware\\DevSoftwareVisual\\Aula 02 - 1108\\NewDevProject\\NewProjectDevSoftware\\NewProjectDevSoftware.csproj",
+        "projectPath": "c:\\_ws\\_ygor\\_VisualSoftware\\DevSoftwareVisual\\Aula 02 - 1108\\NewDevProject\\NewProjectDevSoftware\\NewProjectDevSoftware.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\_ws\\_ygor\\_VisualSoftware\\DevSoftwareVisual\\Aula 02 - 1108\\NewDevProject\\NewProjectDevSoftware\\obj\\",
+        "outputPath": "c:\\_ws\\_ygor\\_VisualSoftware\\DevSoftwareVisual\\Aula 02 - 1108\\NewDevProject\\NewProjectDevSoftware\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",

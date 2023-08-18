@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_ws\\_ygor\\_VisualSoftware\\DevSoftwareVisual\\Aula 02 - 1108\\NewDevProject\\OrientaçãoObjs\\OrientaçãoObjs.csproj": {}
+    "c:\\_ws\\_ygor\\_VisualSoftware\\DevSoftwareVisual\\Aula 02 - 1108\\NewDevProject\\OrientaçãoObjs\\OrientaçãoObjs.csproj": {}
   },
   "projects": {
-    "C:\\_ws\\_ygor\\_VisualSoftware\\DevSoftwareVisual\\Aula 02 - 1108\\NewDevProject\\OrientaçãoObjs\\OrientaçãoObjs.csproj": {
+    "c:\\_ws\\_ygor\\_VisualSoftware\\DevSoftwareVisual\\Aula 02 - 1108\\NewDevProject\\OrientaçãoObjs\\OrientaçãoObjs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_ws\\_ygor\\_VisualSoftware\\DevSoftwareVisual\\Aula 02 - 1108\\NewDevProject\\OrientaçãoObjs\\OrientaçãoObjs.csproj",
+        "projectUniqueName": "c:\\_ws\\_ygor\\_VisualSoftware\\DevSoftwareVisual\\Aula 02 - 1108\\NewDevProject\\OrientaçãoObjs\\OrientaçãoObjs.csproj",
         "projectName": "OrientaçãoObjs",
-        "projectPath": "C:\\_ws\\_ygor\\_VisualSoftware\\DevSoftwareVisual\\Aula 02 - 1108\\NewDevProject\\OrientaçãoObjs\\OrientaçãoObjs.csproj",
+        "projectPath": "c:\\_ws\\_ygor\\_VisualSoftware\\DevSoftwareVisual\\Aula 02 - 1108\\NewDevProject\\OrientaçãoObjs\\OrientaçãoObjs.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\_ws\\_ygor\\_VisualSoftware\\DevSoftwareVisual\\Aula 02 - 1108\\NewDevProject\\OrientaçãoObjs\\obj\\",
+        "outputPath": "c:\\_ws\\_ygor\\_VisualSoftware\\DevSoftwareVisual\\Aula 02 - 1108\\NewDevProject\\OrientaçãoObjs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
