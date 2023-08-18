@@ -1,14 +1,14 @@
 ﻿namespace OrientaçãoObjs.Models;
 public class Pessoa
 {
-    private string Nome;
+    private string nome;
 
     public string GetNome()
     {
-        return Nome;
+        return nome;
     }
 
     public void setNome(string nome){
-        this.Nome = nome;
+        this.nome = nome;
     }
 }

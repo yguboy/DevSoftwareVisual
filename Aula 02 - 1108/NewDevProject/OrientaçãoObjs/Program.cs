@@ -4,7 +4,17 @@
 //pessoa.setNome("Ygor");
 //Console.WriteLine(pessoa.GetNome());
 
-Produto produto= new();
+Produto produto = new Produto();
 produto.Nome = "Bolacha";
-produto.Preco = 10.5;
-Console.WriteLine(produto.ToString());
+produto.Preco = 4.5;
+produto.Validade = DateTime.Now;
+Console.WriteLine(produto);
+
+Produto produto1 = new Produto
+{
+    Nome = "Arroz",
+    Preco = 10,
+    Validade = DateTime.Now
+};
+
+Console.WriteLine(produto1);
